@@ -1,1 +1,1 @@
-# Javascript
+Exploring Javascript
